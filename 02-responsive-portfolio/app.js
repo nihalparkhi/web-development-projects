@@ -1,0 +1,1 @@
+const b=document.querySelector('#theme');b.addEventListener('click',()=>{const dark=document.documentElement.dataset.theme!=='dark';document.documentElement.dataset.theme=dark?'dark':'light';b.setAttribute('aria-pressed',String(dark))});

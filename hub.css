@@ -1,0 +1,1 @@
+*{box-sizing:border-box}body{margin:0;background:#0d1220;color:#f4f6fb;font:16px Arial}.top{padding:5rem 8vw}.top h1{font-size:clamp(3rem,8vw,6rem)}.projects{padding:2rem 8vw;display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:1rem}article{background:#171f32;border:1px solid #2c3852;border-radius:18px;padding:2rem;min-height:150px}a{color:#aebdff}
